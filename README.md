@@ -1,5 +1,9 @@
 # Machine Learning Classification and CNN for Image Classification
 
+## Group Members
+1. Aaryan Dhore (knc8xp)
+2. Dhriti Gampa (jwr9ew)
+
 ## File 1: Machine Learning Classification
 
 ### Introduction
